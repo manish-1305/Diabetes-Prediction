@@ -35,7 +35,7 @@ A machine learning project that predicts diabetes risk using Support Vector Mach
 3. Run Streamlit app: `streamlit run app.py`
 4. Input patient data and get instant diabetes risk prediction
 
-##App
+## App
 ![image](https://github.com/user-attachments/assets/c3a12546-241b-40ed-bead-09112d075bce)
 
 ## 📁 Project Structure
