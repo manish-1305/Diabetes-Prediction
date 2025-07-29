@@ -47,4 +47,4 @@ A machine learning project that predicts diabetes risk using Support Vector Mach
 └── requirements.txt                  # Dependencies
 ```
 
-Perfect for healthcare professionals, researchers, or anyone interested in medical machine learning applications.
+
